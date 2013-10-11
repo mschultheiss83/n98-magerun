@@ -1,4 +1,4 @@
-#!/usr/bin/env php
+#!/etc/php/phpfarm/inst/php-5.3.10/bin/php
 <?php
 
 Phar::mapPhar('n98-magerun.phar');
