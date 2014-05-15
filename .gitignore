@@ -1,4 +1,5 @@
 .idea
+.svn
 vendor
 example-magento
 clover.xml
