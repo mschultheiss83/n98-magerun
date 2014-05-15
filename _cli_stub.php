@@ -1,4 +1,4 @@
-#!/usr/bin/env php
+#!/usr/bin/env php53
 <?php
 
 Phar::mapPhar('n98-magerun.phar');
